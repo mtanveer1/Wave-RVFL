@@ -7,6 +7,7 @@ Reference:
 M. Sajid, A. Quadir, and M. Tanveer, "Wave-RVFL: A Randomized Neural Network Based on Wave Loss Function." 
 Published in the 31st International Conference on Neural Information Processing (ICONIP) 2024.
 Arxiv Link: https://arxiv.org/abs/2408.02824
+https://doi.org/10.1007/978-981-96-6579-2_17
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
